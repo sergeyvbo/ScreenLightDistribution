@@ -1,0 +1,9 @@
+C:\Users\-\Source\Repos\Circles2\circles\circles\bin\Debug\circles.exe.config
+C:\Users\-\Source\Repos\Circles2\circles\circles\bin\Debug\circles.exe
+C:\Users\-\Source\Repos\Circles2\circles\circles\bin\Debug\circles.pdb
+C:\Users\-\Source\Repos\Circles2\circles\circles\obj\Debug\circles.csprojAssemblyReference.cache
+C:\Users\-\Source\Repos\Circles2\circles\circles\obj\Debug\circles.Circles.resources
+C:\Users\-\Source\Repos\Circles2\circles\circles\obj\Debug\circles.Properties.Resources.resources
+C:\Users\-\Source\Repos\Circles2\circles\circles\obj\Debug\circles.csproj.GenerateResource.cache
+C:\Users\-\Source\Repos\Circles2\circles\circles\obj\Debug\circles.exe
+C:\Users\-\Source\Repos\Circles2\circles\circles\obj\Debug\circles.pdb
